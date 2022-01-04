@@ -1,0 +1,34 @@
+{
+  "Curditem": [
+    {
+      "id": "35454775-4e9e-44bd-b83f-99b9e354d0ad",
+      "name": "Amygdala homes'",
+      "img": "https://images.unsplash.com/photo-1580587771525-78b9dba3b914?ixlib=rb-1.2.1&w=1000&q=80",
+      "location": "chen"
+    },
+    {
+      "id": "e0213e4c-6114-48b8-bebe-b36806358ad7",
+      "name": "Fairbanks Ltd",
+      "img": "https://images.unsplash.com/photo-1518780664697-55e3ad937233?ixlib=rb-1.2.1&w=1000&q=80",
+      "location": "Pondicherry"
+    },
+    {
+      "id": "92decd0b-032c-4ad5-b598-c6309b167605",
+      "name": "Dale homes",
+      "img": "https://i.pinimg.com/736x/2f/82/39/2f823993ba069d0aa966144e6f20d459.jpg",
+      "location": "Trichy"
+    },
+    {
+      "id": "b014ee88-2737-4273-b726-63e5e76ba862",
+      "name": "riptico Properties",
+      "img": "https://media.gettyimages.com/photos/idyllic-home-with-covered-porch-picture-id479767332?s=612x612",
+      "location": "Madurai"
+    },
+    {
+      "id": "91b3100c-7735-4e53-93a6-2821f7818965",
+      "name": "MC homes",
+      "img": "https://images.livemint.com/img/2019/04/16/600x338/Kerala_1555430371601.jpg",
+      "location": "Kanyakumari"
+    }
+  ]
+}
